@@ -1,6 +1,6 @@
 /**
  * HBD.js
- * @author Jhonsky 
+ * @author Jhonsky <hikmahtiar6@gmail.com>
  **/
 
 var daysInMonth = function (m, y) {
